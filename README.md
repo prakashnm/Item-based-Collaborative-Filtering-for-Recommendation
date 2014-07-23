@@ -7,7 +7,7 @@ Goal:
  It is to understand item-based collaborative ﬁltering for building an efﬁcient recommendation system under a large amount of movie rating data: Netﬂix prize problem
  
  Steps:
- Generated my own data with the following format. 
+ Generated data using InputFileGenerator.java with the following format. 
  
  users, movies, rating 
  
